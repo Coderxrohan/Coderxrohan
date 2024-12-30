@@ -1,4 +1,4 @@
-<h2 align="left">Hi i am Rohan Satkar a CSE Techie, from Pune, Maharshtra !</h2>
+<h2 align="center">Hi i am Rohan Satkar a CSE Techie, from Pune, Maharshtra !</h2>
 
 ###
 <p align="center"><br>
@@ -54,7 +54,7 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Coderxrohan/Coderxrohan/output/snake.svg" alt="Snake animation" />
 
 ###
