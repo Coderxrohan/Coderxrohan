@@ -1,7 +1,9 @@
 <h2 align="left">Hi i am Rohan Satkar a CSE Techie, from Pune, Maharshtra !</h2>
 
 ###
-
+<p align="center"><br>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=700&height=20&lines=01010010 01001111 01001000 01000001 01001110">
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coderxrohan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coderxrohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
