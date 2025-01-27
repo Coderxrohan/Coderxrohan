@@ -60,3 +60,8 @@
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Coderxrohan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
+<br>
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen)
