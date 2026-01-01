@@ -1,6 +1,5 @@
 ###
 
-<img align="right" height="210" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYxMTRuOWgwb3RkYWE4dDVsbHJkMDhoMDBrNTBxMXlhYmpvY24wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPDKKzgE2N89tmH6Xw/giphy.gif"  />
 
 ###
 
