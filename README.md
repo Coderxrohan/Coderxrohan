@@ -1,4 +1,13 @@
-<h2 align="center">Hi i am Rohan Satkar a CSE Techie, from Pune, Maharshtra !</h2>
+<img align="right" height="210" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYxMTRuOWgwb3RkYWE4dDVsbHJkMDhoMDBrNTBxMXlhYmpvY24wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPDKKzgE2N89tmH6Xw/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img height="228" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdtMW12amppbTV4dGFyMGNnaHN4YzU2bXgzYnBnNzdxaW52NmdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeSARPpM0Y3SGDc5O/giphy.gif"  />
+</div>
+
+###
+![](https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen)
 
 ###
 <p align="center"><br>
@@ -45,13 +54,4 @@
 
 ###
 
-<img align="right" height="210" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYxMTRuOWgwb3RkYWE4dDVsbHJkMDhoMDBrNTBxMXlhYmpvY24wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPDKKzgE2N89tmH6Xw/giphy.gif"  />
 
-###
-
-<div align="center">
-  <img height="228" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdtMW12amppbTV4dGFyMGNnaHN4YzU2bXgzYnBnNzdxaW52NmdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeSARPpM0Y3SGDc5O/giphy.gif"  />
-</div>
-
-###
-![](https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen)
