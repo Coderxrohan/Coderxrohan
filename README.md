@@ -1,16 +1,15 @@
 ###
 
-<img align="right" height="225" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYxMTRuOWgwb3RkYWE4dDVsbHJkMDhoMDBrNTBxMXlhYmpvY24wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPDKKzgE2N89tmH6Xw/giphy.gif"  />
+<img align="right" height="240" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYxMTRuOWgwb3RkYWE4dDVsbHJkMDhoMDBrNTBxMXlhYmpvY24wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPDKKzgE2N89tmH6Xw/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img height="228" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdtMW12amppbTV4dGFyMGNnaHN4YzU2bXgzYnBnNzdxaW52NmdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeSARPpM0Y3SGDc5O/giphy.gif"  />
+  <img height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdtMW12amppbTV4dGFyMGNnaHN4YzU2bXgzYnBnNzdxaW52NmdmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeSARPpM0Y3SGDc5O/giphy.gif"  />
 </div>
 
-###
+##
 
-![](https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen)
 
 ###
 
@@ -58,4 +57,9 @@
 
 ###
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen" alt="profile views" />
+</div>
+###
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coderxrohan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
