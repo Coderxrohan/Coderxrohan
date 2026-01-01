@@ -1,3 +1,5 @@
+###
+
 <img align="right" height="210" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYxMTRuOWgwb3RkYWE4dDVsbHJkMDhoMDBrNTBxMXlhYmpvY24wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPDKKzgE2N89tmH6Xw/giphy.gif"  />
 
 ###
@@ -7,9 +9,11 @@
 </div>
 
 ###
+
 ![](https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen)
 
 ###
+
 <p align="center"><br>
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=700&height=20&lines=01010010 01001111 01001000 01000001 01001110">
 </p>
