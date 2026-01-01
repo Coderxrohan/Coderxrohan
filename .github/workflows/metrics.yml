@@ -1,8 +1,8 @@
-name: GitHub Metrics (Terminal)
+name: GitHub Metrics (Classic)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"   # Runs daily
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,15 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: terminal
-          filename: metrics.terminal.svg
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, metadata
+
+          # Base sections
+          base: header, repositories, activity
+
+          # Plugins
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_stargazers: yes
