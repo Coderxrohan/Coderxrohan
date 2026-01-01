@@ -54,14 +54,4 @@
 </div>
 
 ###
-<div align="center">
-<img src="https://raw.githubusercontent.com/Coderxrohan/Coderxrohan/output/snake.svg" alt="Snake animation" />
-
-###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Coderxrohan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br>
-<br>
-<br>
-<br>
 ![](https://komarev.com/ghpvc/?username=coderxrohan&color=brightgreen)
