@@ -7,18 +7,3 @@
 </h2>
 
 ![](https://github.com/Coderxrohan/Coderxrohan/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
-
-<br>
-<h3 align="center">
-  Credits & Support
-</h3>
-<p align="center">
-If you’re exploring cloud infrastructure or deploying real-world projects,
-<br>you can try DigitalOcean using the link below.  
-<br><a href="https://www.digitalocean.com/?refcode=7ec1eef18a98&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">Register</a> to get $200 credits free.
-</p>
-
-<p align="center">
- <a href="https://www.digitalocean.com/?refcode=7ec1eef18a98&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" />
-</a>
-</p>
